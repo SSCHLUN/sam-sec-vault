@@ -1,8 +1,8 @@
-# Sam's Secutiy Vault
+# Sam's Security Vault
 CLI credential manager with AES-256 Encryptio
 
 # Overview
-A Python-based CLI tool for DevSecOps enthusiasts to securely manage password, API keys, and tokens with a high level enccryption 
+A Python-based CLI tool for DevSecOps enthusiasts to securely manage password, API keys, and tokens with a high level encryption 
 
 # Key Features
 
@@ -17,5 +17,3 @@ A Python-based CLI tool for DevSecOps enthusiasts to securely manage password, A
 - **Phase 2**: CLI interface with Click framework
 - **Phase 3**: Advanced features (backups, import/export, MFA) 
 - **Phase 4**: Comprehensive testing 
-
-
